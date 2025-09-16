@@ -1,0 +1,11 @@
+{
+    "quickActions": {
+        "isShow":true,
+        "actions":[
+            {"icon":"","label":"Sản phẩm","redirect":"/san-pham"},
+            {"icon":"","label":"Dịch vụ","redirect":"/dich-vu"},
+            {"icon":"","label":"Tin tức","redirect":"/tin-tuc"},
+            {"icon":"","label":"Liên hệ","redirect":"/lien-he"}
+        ]
+    }
+}
