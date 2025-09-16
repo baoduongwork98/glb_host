@@ -1,4 +1,10 @@
 {
+    "OA":{
+        "isShow":true,
+        "icon":"",
+        "IdOA":"791331766754571222",
+        "nameOA":"haravan"
+    }
     "quickActions": {
         "isShow":true,
         "actions":[
